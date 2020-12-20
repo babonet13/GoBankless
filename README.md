@@ -3,6 +3,15 @@ Vers un monde sans banques ...
 
 ## Contexte
 
-##cLe probleme
+## Le probleme
+> Inflation
 
 ## Les solutions
+
+Monnaies alternatives
+
+Bitcoin
+
+Crypto - Crédit Mutuel
+
+## Les mécanimes à connaitre
