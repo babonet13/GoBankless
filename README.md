@@ -19,7 +19,8 @@ Inflation
 
 ## Les mécanimes à connaitre
 
-Clefs Privées VS Login/Password
-Cold Storage VS Hot Storage
-Graine cryptographique, chemin de dérivation et clef privé
-MultiSig VS MonoSig
+Clefs Privées VS Login/Password.  
+Cold Storage VS Hot Storage.  
+Graine cryptographique, chemin de dérivation et clef privé.  
+MultiSig VS MonoSig.  
+
